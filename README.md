@@ -4,9 +4,12 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-mileski-382317140/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mileskicristiano/)
 
-![MileskiSilva](https://github-readme-stats.vercel.app/api?username=MileskiSilva&show_icons=true&theme=synthwave)
-
-
+<div align="center">
+  <a href="https://github.com/MileskiSilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
 ### Tecnologia que eu uso!
 
 <div style="display: incline_block"><br/>
